@@ -1,0 +1,20 @@
+h1
+{
+ color: orange;
+}
+h2
+{
+    color: violet;
+}
+h3
+{
+    color: orange;
+} 
+.banner 
+{
+text-align: center;
+    background-image: url(zebre.jpg);
+    image-size: cover; 
+    padding: 80px;
+
+  
